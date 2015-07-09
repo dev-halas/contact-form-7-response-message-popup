@@ -1,0 +1,23 @@
+.wpcf7-response-output {
+	margin:0!important;
+	height:auto!important;
+}
+.wpcf7 .wpcf7-response-output {
+	display:none!important;
+}
+
+#fancybox-outer {
+	background:none!important;
+}
+.fancybox-bg {
+	display:none!important;
+}
+#fancybox-content {
+	background:#fff;
+	-webkit-border-radius: 4px;
+	   -moz-border-radius: 4px;
+	        border-radius: 4px;
+	-webkit-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+	   -moz-box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+	        box-shadow: 0 10px 25px rgba(0, 0, 0, 0.5);
+}
